@@ -19,7 +19,7 @@ Summary of Election Results:
 * Diana DeGette won the election with 272,892 votes, receiving 73.8% of the total vote
 
 
-## Election-Audit Summary
+## Election Audit Summary
 It's important to note that the code I developed for this election analysis can be modified slightly and be applied to essentially any kind of election. Suppose for example that I had a data set that included every vote cast in some state for a United States presidential election. In this scenario, I would first be able to modify the code ever so slightly to key in on each voting district rather than each county. This can be done by changing the counties list and county_votes dictionary in the below code to a voting_district list and district_votes dictionary.
 
 
